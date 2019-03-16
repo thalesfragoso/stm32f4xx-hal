@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Wait 16 cycles after setting prescalers for some clock domains to follow manual.
 
+### Added
+
+- DMA configuration API
+
 ## [v0.7.0] - 2020-03-07
 
 ### Changed
